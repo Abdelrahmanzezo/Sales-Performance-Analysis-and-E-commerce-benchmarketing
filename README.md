@@ -1,1 +1,1 @@
-# Sales-Performance-Analysis-and-E-commerce-benchmarketing
+In this project, I analyzed the sales performance of our industry and compared it with other e-commerce platforms. The goal is to track trends, identify growth opportunities, and recommend strategies for business improvement
